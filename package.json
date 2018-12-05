@@ -1,0 +1,19 @@
+{
+  "name": "klemi",
+  "version": "1.0.0",
+  "description": "a library to support klemi ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnfredadams/klemi.git"
+  },
+  "author": "John Adams",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnfredadams/klemi/issues"
+  },
+  "homepage": "https://github.com/johnfredadams/klemi#readme"
+}
