@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "a library to support klemi ",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/johnfredadams/klemi.git"
@@ -15,5 +12,9 @@
   "bugs": {
     "url": "https://github.com/johnfredadams/klemi/issues"
   },
-  "homepage": "https://github.com/johnfredadams/klemi#readme"
+  "homepage": "https://github.com/johnfredadams/klemi#readme",
+  "devDependencies": {},
+  "dependencies": {
+    "array-sort": "^1.0.0"
+  }
 }
